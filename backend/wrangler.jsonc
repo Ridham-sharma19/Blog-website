@@ -5,7 +5,7 @@
   "compatibility_date": "2025-03-10",
  "vars": {
   "DATABASE_URL": ""
-  "JWT_SECRET":""
+  "JWT_SECRET": ""
 }
   // "compatibility_flags": [
   //   "nodejs_compat"
